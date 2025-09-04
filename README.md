@@ -52,6 +52,7 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
   ![Category & Region](screenshots/category_region.png)
 
 - **Top 10 Customers**
+- 
   ![Top Customers](screenshots/top_customers.png)
 
 ## 📂 Files
