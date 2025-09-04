@@ -23,7 +23,7 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
   - `Region`, `Country` – Geographical info  
   - `Segment` – Customer segment (Consumer, Corporate, Home Office)  
 
-📥 The dataset can be downloaded from: [[Kaggle – Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  ](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset).
+📥 The dataset can be downloaded from: (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  ](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset).
 
 ## 🔑 Key Features
 - **KPI Cards:** Total Sales, Total Profit, Profit Margin %, Quantity, Shipping Cost, Average Order Value.  
