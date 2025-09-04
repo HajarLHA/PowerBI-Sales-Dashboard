@@ -4,6 +4,27 @@
 This project showcases an **interactive Power BI dashboard** analyzing global retail sales between 2011 and 2014.  
 It provides business insights through KPIs, sales trends, category & regional analysis, and customer performance.  
 
+## 📊 Dataset
+The dashboard was built using the **Sample Superstore Dataset**, a publicly available dataset widely used for learning BI and analytics.  
+
+- **Rows:** 9,994  
+- **Columns:** 24  
+- **Time Period:** 2011–2014  
+- **Main Fields:**  
+  - `Order Date` – Date of order  
+  - `Ship Date` – Date shipped  
+  - `Sales` – Sales amount  
+  - `Profit` – Profit amount  
+  - `Quantity` – Units sold  
+  - `Discount` – Discount applied  
+  - `Shipping Cost` – Delivery costs  
+  - `Customer Name` – Customer identifier  
+  - `Category`, `Sub-Category` – Product classification  
+  - `Region`, `Country` – Geographical info  
+  - `Segment` – Customer segment (Consumer, Corporate, Home Office)  
+
+📥 The dataset can be downloaded from: [[Kaggle – Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  ](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset).
+
 ## 🔑 Key Features
 - **KPI Cards:** Total Sales, Total Profit, Profit Margin %, Quantity, Shipping Cost, Average Order Value.  
 - **Visuals:**  
@@ -45,27 +66,6 @@ It provides business insights through KPIs, sales trends, category & regional an
 - Central region is most profitable.  
 - Top 10 customers contribute a large share of sales.  
 - Profit margin is ~12%.
-
-## 📊 Dataset
-The dashboard was built using the **Sample Superstore Dataset**, a publicly available dataset widely used for learning BI and analytics.  
-
-- **Rows:** 9,994  
-- **Columns:** 21  
-- **Time Period:** 2011–2014  
-- **Main Fields:**  
-  - `Order Date` – Date of order  
-  - `Ship Date` – Date shipped  
-  - `Sales` – Sales amount  
-  - `Profit` – Profit amount  
-  - `Quantity` – Units sold  
-  - `Discount` – Discount applied  
-  - `Shipping Cost` – Delivery costs  
-  - `Customer Name` – Customer identifier  
-  - `Category`, `Sub-Category` – Product classification  
-  - `Region`, `Country` – Geographical info  
-  - `Segment` – Customer segment (Consumer, Corporate, Home Office)  
-
-📥 The dataset can be downloaded from: [Kaggle – Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 
 ---
 👩‍💻 Created by *Hajar Lhamyani* – Data Scientist & Analyst | Machine Learning Enthusiast
