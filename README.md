@@ -41,20 +41,6 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
 - DAX (Data Analysis Expressions)  
 - Data Visualization & Dashboard Design  
 
-## 📸 Dashboard Preview
-- **KPI Cards**
-  ![KPI Cards](screenshots/kpis.png)
-
-- **Sales Trend**
-  ![Sales Trend](screenshots/sales_trend.png)
-
-- **Category & Region Insights**
-  ![Category & Region](screenshots/category_region.png)
-
-- **Top 10 Customers**
-  
-  ![Top Customers](screenshots/top_customers.png)
-
 ## 📂 Files
 - `dashboard/` → Power BI file & exported dashboard
 - `dataset/` → dataset
