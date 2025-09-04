@@ -68,4 +68,4 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
 - Profit margin is ~12%.
 
 ---
-👩‍💻 Created by *Hajar Lhamyani* – Data Scientist & Analyst | Machine Learning Enthusiast
+👩‍💻 Created by *Hajar Lhamyani* – Data Scientist & Analyst | Machine Learning Engineer
