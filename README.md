@@ -52,14 +52,13 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
   ![Category & Region](screenshots/category_region.png)
 
 - **Top 10 Customers**
-- 
+  
   ![Top Customers](screenshots/top_customers.png)
 
 ## 📂 Files
-- `orders.pbix` → Power BI file
-- `dashboard.pdf` → exported dashboard  
-- `screenshots/` → dashboard screenshots  
+- `dashboard/` → Power BI file & exported dashboard
 - `dataset/` → dataset
+- `screenshots/` → dashboard screenshots  
 
 ## ✨ Insights
 - Sales grew steadily with seasonal peaks.  
