@@ -1,8 +1,17 @@
 # 📊 Global Sales & Profit Dashboard – Power BI
 
-## 📌 Overview 
+## 📌 Project Overview 
 This project showcases an **interactive Power BI dashboard** analyzing global retail sales between 2011 and 2014.  
 It provides business insights through KPIs, sales trends, category & regional analysis, and customer performance.  
+
+---
+
+## 📂 Repository Structure
+├── `dashboard/` → Power BI file & exported dashboard
+├── `dataset/` → dataset
+├── `screenshots/` → dashboard screenshots
+  
+---
 
 ## 📊 Dataset
 The dashboard was built using the **Sample Superstore Dataset**, a publicly available dataset widely used for learning BI and analytics.  
@@ -25,6 +34,8 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
 
 📥 The dataset can be downloaded from: (https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset).
 
+---
+
 ## 🔑 Key Features
 - **KPI Cards:** Total Sales, Total Profit, Profit Margin %, Quantity, Shipping Cost, Average Order Value.  
 - **Visuals:**  
@@ -35,16 +46,15 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
 - **Interactivity:** Date, Region, Country filters.  
 - **Custom Measures (DAX):** Profit Margin %, Average Order Value.  
 
+---
+
 ## 🛠 Tools & Skills
 - Power BI Desktop  
 - Power Query (data cleaning & transformation)  
 - DAX (Data Analysis Expressions)  
 - Data Visualization & Dashboard Design  
 
-## 📂 Files
-- `dashboard/` → Power BI file & exported dashboard
-- `dataset/` → dataset
-- `screenshots/` → dashboard screenshots  
+---
 
 ## ✨ Insights
 - Sales grew steadily with seasonal peaks.  
