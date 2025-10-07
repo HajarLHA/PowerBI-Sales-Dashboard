@@ -8,6 +8,7 @@ It provides business insights through KPIs, sales trends, category & regional an
 ---
 
 ## 📂 Repository Structure
+
 ```
 ├── dashboard/  Power BI file & exported dashboard
 ├── dataset/  dataset
@@ -16,6 +17,7 @@ It provides business insights through KPIs, sales trends, category & regional an
 ---
 
 ## 📊 Dataset
+
 The dashboard was built using the **Sample Superstore Dataset**, a publicly available dataset widely used for learning BI and analytics.  
 
 - **Rows:** 51.3k  
@@ -39,6 +41,7 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
 ---
 
 ## 🔑 Key Features
+
 - **KPI Cards:** Total Sales, Total Profit, Profit Margin %, Quantity, Shipping Cost, Average Order Value.  
 - **Visuals:**  
   - Sales & Profit Trend Over Time (line chart).  
@@ -51,6 +54,7 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
 ---
 
 ## 🛠 Tools & Skills
+
 - Power BI Desktop  
 - Power Query (data cleaning & transformation)  
 - DAX (Data Analysis Expressions)  
