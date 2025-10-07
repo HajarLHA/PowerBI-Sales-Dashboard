@@ -1,6 +1,7 @@
 # 📊 Global Sales & Profit Dashboard – Power BI
 
 ## 📌 Project Overview 
+
 This project showcases an **interactive Power BI dashboard** analyzing global retail sales between 2011 and 2014.  
 It provides business insights through KPIs, sales trends, category & regional analysis, and customer performance.  
 
