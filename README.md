@@ -8,9 +8,9 @@ It provides business insights through KPIs, sales trends, category & regional an
 
 ## 📂 Repository Structure
 ```
-├── dashboard/ → Power BI file & exported dashboard
-├── dataset/ → dataset
-├── screenshots/ → dashboard screenshots
+├── dashboard/  Power BI file & exported dashboard
+├── dataset/  dataset
+├── screenshots/  dashboard screenshots
 ```  
 ---
 
