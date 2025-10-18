@@ -30,7 +30,7 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
   - `Sales` – Sales amount  
   - `Profit` – Profit amount  
   - `Quantity` – Units sold  
-  - `Discount` – Discount applied  
+  - `Discount` – Discount applied   
   - `Shipping Cost` – Delivery costs  
   - `Customer Name` – Customer identifier  
   - `Category`, `Sub-Category` – Product classification  
