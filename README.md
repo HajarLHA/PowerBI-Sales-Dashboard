@@ -13,7 +13,7 @@ It provides business insights through KPIs, sales trends, category & regional an
 ├── dashboard/      #Power BI file & exported dashboard
 ├── dataset/        #dataset
 ├── screenshots/    #dashboard screenshots
-└── README.md       # Project documentation
+└── README.md       #Project documentation
 ```  
 ---
 
