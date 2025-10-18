@@ -10,9 +10,10 @@ It provides business insights through KPIs, sales trends, category & regional an
 ## 📂 Repository Structure
 
 ```
-├── dashboard/  Power BI file & exported dashboard
-├── dataset/  dataset
-├── screenshots/  dashboard screenshots
+├── dashboard/      #Power BI file & exported dashboard
+├── dataset/        #dataset
+├── screenshots/    #dashboard screenshots
+└── README.md       # Project documentation
 ```  
 ---
 
@@ -62,7 +63,7 @@ The dashboard was built using the **Sample Superstore Dataset**, a publicly avai
 
 ---
 
-## ✨ Insights
+## 📊 Key Insights
 - Sales grew steadily with seasonal peaks.  
 - Technology category drives the highest revenue.  
 - Central region is most profitable.  
